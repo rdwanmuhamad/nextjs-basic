@@ -93,7 +93,8 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb)); */
-    margin: 100px;
+    margin: auto;
+    height: 100%;
 }
 
 a {
@@ -107,6 +108,3 @@ a {
   }
 }
 
-.title{
-  color: red;
-}

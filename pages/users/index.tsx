@@ -1,5 +1,10 @@
-import React from "react";
+import Layout from '@/components/Layout'
+import React from 'react'
 
 export default function index() {
-  return <div>User page</div>;
+  return (
+    <Layout>
+      <div>User page</div>
+    </Layout>
+  );
 }
