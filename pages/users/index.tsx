@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function index() {
   return (
-    <Layout>
+    <Layout pageTitle="User Page">
       <div>User page</div>
     </Layout>
   );
